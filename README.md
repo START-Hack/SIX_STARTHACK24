@@ -31,7 +31,7 @@ Navigate in AzureOpenAI folder for more information.
 
 
 ## <p align="center"> The Pitch: </p>
-[Link to the video pitch](https://youtu.be/UmxKj-SL6X0)
+[Video pitch](https://youtu.be/UmxKj-SL6X0)
 
 
 ## <p align="center"> Deep Dive Slides: </p>
