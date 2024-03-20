@@ -18,10 +18,6 @@ You can access:
 Official ESG Data on more than 5000 investment funds.
 Navigate in ESG folder for further details.
 
-Our [API Portal](https://web.apiportal.six-group.com/portal/bfi/)
-Sample codes in Javascript and Python are provided.
-Navigate in the SIX Web Folder for more information.
-
 Azure OpenAI accounts
 In case you want to innove with Microsoft Azure OpenAI, you can get an account.
 Navigate in AzureOpenAI folder for more information.
