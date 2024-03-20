@@ -33,10 +33,6 @@ Navigate in AzureOpenAI folder for more information.
 ## <p align="center"> The Pitch: </p>
 [Link to the video pitch](https://github.com/START-Hack/SIX_STARTHACK23/blob/main/459_HackPitch.compressed.mp4)
 
-[![Watch the video](resources/video.png)](https://github.com/START-Hack/SIX_STARTHACK23/blob/main/459_HackPitch.compressed.mp4)
-
-
-
 ## <p align="center"> Deep Dive Slides: </p>
 
 <p align="center"> The deep dive will be held without a presentation. </p>
