@@ -10,15 +10,15 @@
 
 Data from financial markets is difficult to understand. People are often overwhelmed and ill-equipped to be able to make sense out of the data that might change their financial set up. Investor preferences are changing alongside consumer attitudes to key factors such as social, environmental and governance elements. ESG factors are becoming increasingly relevant not only for financial actors but for citizens of the world who wish to actively participate in change. Solutions in the market currently designed for highly literate users, they require a deep understanding of financial markets plus ESG. 
 
-To acheive your mission, we grant you access to our brand new financial data API: SIX Web API. The API grants you access to data that describe the financial instruments, provide historical data, and prices in streaming mode. The API leverages REST/JSON, GraphQL and websocket technologies.
+To acheive your mission, we grant you access to:
 
+**The SIX Web API to access financial information data**
+our brand new financial data API: SIX Web API. The API grants you access to data that describe the financial instruments, provide historical data, and prices in streaming mode. The API leverages REST/JSON, GraphQL and websocket technologies.
 
-
-You can access:
-Official ESG Data on more than 5000 investment funds.
+**Official ESG Data** on more than 5000 investment funds.
 Navigate in ESG folder for further details.
 
-Azure OpenAI accounts
+**Azure OpenAI accounts**
 In case you want to innove with Microsoft Azure OpenAI, you can get an account.
 Navigate in AzureOpenAI folder for more information.
 
