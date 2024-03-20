@@ -16,7 +16,7 @@ The table below describes each columns. The most important columns are written i
 | ----------- | ----------- |
 | swissValorNumber | Also named valor. This is an financial instrument identifier. You can use it to query data with the SIX Web API. But we recommend you to use the **ISIN** instead. |
 | **ISIN** | An international standard to identify a financial instrument. You can use the ISIN with the Web API and also use it to find more information on the financial instrument on the WEB. |
-| **ISIN_BC** | ISIN_BC is the combination of an ISIN code with a bourse code identifier. This is the code to use to retrieve prices in the SIX Web API. Check out the end points *End of Day History*, *Intraday Snapshot* and *Streaming Market Data* |
+| **ISIN_BC** | ISIN_BC is the combination of an ISIN code with a exchange (bürse)  code identifier. This is the code to use to retrieve prices in the SIX Web API. Check out the end points *End of Day History*, *Intraday Snapshot* and *Streaming Market Data* |
 | FISN | Financial instrument short name according to ISO18774 |
 | issuerSIXCompanyKey | Also named **gk**. This is a SIX company identifier that you can use in the *Entity Base* SIX Web API end point |
 | LEI | LEI (Legal Entity Identifier) is company identifier same as *issuerSIXCompanyKey*. The difference is that the LEI is a standard identifier. You can also use the LEI in the SIX Web API as well |
