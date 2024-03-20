@@ -54,11 +54,25 @@ Navigate in AzureOpenAI folder for more information.
 
 
 ## <p align="center"> Point of Contact: </p>
-
+<p =align="center">
+<table border="0">
+<tr>
+  <td align="center"><img src="https://github.com/START-Hack/SIX_STARTHACK24/assets/128060007/9069e726-510a-40f1-a6f2-0a5694f5fb2f" /> </td>
+  <td align="center"><img src="https://github.com/START-Hack/SIX_STARTHACK24/assets/128060007/7b2e37aa-bac6-41fd-96f9-e0ce1633fe76" /> </td>
+  <td align="center"><img src="https://github.com/START-Hack/SIX_STARTHACK24/assets/128060007/1c13d699-7444-421c-bcaa-757d44dfd317" /> </td>
+  <td align="center"><img src="https://github.com/START-Hack/SIX_STARTHACK24/assets/128060007/ad8253d3-9c31-4bf6-9401-ae01010bb519" /> </td>
+</tr>
+<tr>
+  <td align="center">Jennifer Chang</td>
+  <td align="center">Jacob Gertel</td>
+  <td align="center">Catalina Vazquez</td>
+  <td align="center">Laurent Lefèvre</td>
+</tr>
+</table>
+</p>
 <p align="center"> Jacob Gertel, Jennifer Chang, Laurent Lefevre and Catalina Vazquez will be glad to answer your questions during the Deep Dive. </p>
 
 <p align="center"> David De Lame (Product Manager), Manuel Niederberger (Business Analyst) and Amelie Roth (Dev) will also be available for your questions (Thursday on site)</p>
-
 
 ## <p align="center"> Price - the winning team members will each receive: </p>
 
