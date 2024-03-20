@@ -62,6 +62,6 @@ Navigate in AzureOpenAI folder for more information.
 
 ## <p align="center"> Price - the winning team members will each receive: </p>
 
-The winning team will get a set of prizes including:
+The winning team will get a set of prices including:
 - 500 CHF Digitec voucher per person 
 - Invitation to SIX for a management pitch 
