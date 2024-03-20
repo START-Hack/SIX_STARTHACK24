@@ -64,4 +64,4 @@ Navigate in AzureOpenAI folder for more information.
 
 The winning team will get a set of prizes including:
 - 500 CHF Digitec voucher per person 
-- invitation in the Swiss Stock Exchange for a CEO pitch 
+- Invitation to SIX for a management pitch 
