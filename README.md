@@ -1,4 +1,4 @@
-# <p align="center"> Unleashing Innovation: SIX's Financial Data API Challenge for Creative Data Visualization and Financial Inclusion. </p>
+# <p align="center"> The Big Data Problem in Financial Markets. </p>
 
 <img width="1087" alt="Screenshot 2022-03-22 at 14 04 23" src="https://user-images.githubusercontent.com/120366987/226598163-8fcaf489-7d24-4997-ab56-a8ca258a74fc.jpeg">
 
