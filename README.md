@@ -55,13 +55,13 @@ Navigate in AzureOpenAI folder for more information.
 
 ## <p align="center"> Point of Contact: </p>
 
-<p align="center"> Jacob Gertel, Laurent Lefevre and Catalina Vazquez will be glad to answer your questions during the Deep Dive. </p>
+<p align="center"> Jacob Gertel, Jennifer Chang, Laurent Lefevre and Catalina Vazquez will be glad to answer your questions during the Deep Dive. </p>
 
 <p align="center"> David De Lame (Product Manager), Manuel Niederberger (Business Analyst) and Amelie Roth (Dev) will also be available for your questions (Thursday on site)</p>
 
 
-## <p align="center"> Prize - the winning team members will each receive: </p>
+## <p align="center"> Price - the winning team members will each receive: </p>
 
 The winning team will get a set of prizes including:
-- 200 CHF Digitec voucher per person 
+- 500 CHF Digitec voucher per person 
 - invitation in the Swiss Stock Exchange for a CEO pitch 
