@@ -49,9 +49,9 @@ Navigate in AzureOpenAI folder for more information.
   - The visual design is attractive and fun
 - Feasibility (10%)
   - How easily the solution can be integrated in a web site
-- OTHER CRITERIA (20%)
-  - Note sure this criterion is still relevant: Target audience clearly articulated 
-  - Solution adequately tailored to customer needs identified
+- Customer focus (20%)
+  - Customer target properly identified
+  - Customer needs addressed
 
 
 ## <p align="center"> Point of Contact: </p>
