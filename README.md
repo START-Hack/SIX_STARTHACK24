@@ -44,9 +44,9 @@ Navigate in AzureOpenAI folder for more information.
   - We are not looking for “boring corporate reports” with labels and value or basic widget representations but for new ideas to display information.
   - The concept to display, navigate and discover the information is intuitive.
 -	Visual design (20%)
-  - Ease of understanding of the information.
-  - Displayed information are easy to read and to scan.
-  - The visual design is attractive and fun
+    - Ease of understanding of the information.
+    - Displayed information are easy to read and to scan.
+    - The visual design is attractive and fun
 - Feasibility (10%)
   - How easily the solution can be integrated in a web site
 - Customer focus (20%)
